@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="main_grid">maingrid</string>
+    <string name="play_now">PLAY NOW</string>
+    <string name="player_1">"PLAYER 1:"</string>
+    <string name="player_2">"PLAYER 2:"</string>
+    <string name="ones">\'s Turn-Tap to play</string>
+    <string name="twos">\'s Turn-Tap to Play</string>
+    <string name="welcome_to_tictactoe">WELCOME TO TicTacToe</string>
+    <string name="developed_by_abhishek">DEVELOPED BY ABHISHEK</string>
+    <string name="draw">DRAW</string>
+    <string name="ssd">%s%s:%d</string>
+</resources>
