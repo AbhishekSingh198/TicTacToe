@@ -1,4 +1,4 @@
-#1-Splash Screen
+#  Splash Screen
 
 
 
